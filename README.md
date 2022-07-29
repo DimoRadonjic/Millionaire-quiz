@@ -17,6 +17,3 @@ npm start
 To Visit App:
 
 http://localhost:3000/
-#� �W�o�r�d�l�e�-�g�a�m�e�
-�
-�
